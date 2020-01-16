@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(33, 150, 189);
+    color: rgb(167, 82, 82);
+    font-size: 25px;
+    font-style: oblique;
+    text-align: center;
+    border-style: dashed;
+    border-color: rgb(104, 218, 119);
+    border-width: 5px;
+}
